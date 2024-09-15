@@ -36,11 +36,14 @@ python script_name.py --keyword "your business keyword" -r
 First, scrape links:
 
 ```bash
-python script_name.py --keyword "plumbers in California" -l
+python script_name.py --keyword "plumbers" -l
 ```
 
 Then, scrape details using the saved links:
 
 ```bash
-python script_name.py --keyword "plumbers in California" -r
+python script_name.py --keyword "plumbers" -r
 ```
+
+## Results
+![screencapture-docs-google-spreadsheets-d-1AezDC9mLEjPMWdDLsbyYEdUzc5ylrMxcNFWrNVf3Q8Q-edit-2024-09-15-20_31_05](https://github.com/user-attachments/assets/f723219c-df4d-435c-96ff-b0ba5b75eb99)
